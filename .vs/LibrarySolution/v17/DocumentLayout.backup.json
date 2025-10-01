@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TZT\\Technical Assessment\\Library-Management-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFF0EA1-AB71-478D-8EF3-2267334E30AC}|src\\Library.Api\\Library.Api.csproj|d:\\tzt\\technical assessment\\library-management-system\\src\\library.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDFF0EA1-AB71-478D-8EF3-2267334E30AC}|src\\Library.Api\\Library.Api.csproj|solutionrelative:src\\library.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFF0EA1-AB71-478D-8EF3-2267334E30AC}|src\\Library.Api\\Library.Api.csproj|d:\\tzt\\technical assessment\\library-management-system\\src\\library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFF0EA1-AB71-478D-8EF3-2267334E30AC}|src\\Library.Api\\Library.Api.csproj|solutionrelative:src\\library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFF0EA1-AB71-478D-8EF3-2267334E30AC}|src\\Library.Api\\Library.Api.csproj|d:\\tzt\\technical assessment\\library-management-system\\src\\library.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDFF0EA1-AB71-478D-8EF3-2267334E30AC}|src\\Library.Api\\Library.Api.csproj|solutionrelative:src\\library.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFF0EA1-AB71-478D-8EF3-2267334E30AC}|src\\Library.Api\\Library.Api.csproj|d:\\tzt\\technical assessment\\library-management-system\\src\\library.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFF0EA1-AB71-478D-8EF3-2267334E30AC}|src\\Library.Api\\Library.Api.csproj|solutionrelative:src\\library.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFF0EA1-AB71-478D-8EF3-2267334E30AC}|src\\Library.Api\\Library.Api.csproj|d:\\tzt\\technical assessment\\library-management-system\\src\\library.api\\library.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FDFF0EA1-AB71-478D-8EF3-2267334E30AC}|src\\Library.Api\\Library.Api.csproj|solutionrelative:src\\library.api\\library.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30158C5F-5C53-4906-BFB1-B4B656274B30}|src\\Library.Domain\\Library.Domain.csproj|d:\\tzt\\technical assessment\\library-management-system\\src\\library.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30158C5F-5C53-4906-BFB1-B4B656274B30}|src\\Library.Domain\\Library.Domain.csproj|solutionrelative:src\\library.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507D27C2-426B-4340-55EC-053433EA3AD6}|src\\Library.Infrastructure\\Library.Infrastructure.csproj|d:\\tzt\\technical assessment\\library-management-system\\src\\library.infrastructure\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507D27C2-426B-4340-55EC-053433EA3AD6}|src\\Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:src\\library.infrastructure\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3902708-1255-4F2F-B9B8-A677127CAEF6}|src\\Library.Application\\Library.Application.csproj|d:\\tzt\\technical assessment\\library-management-system\\src\\library.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3902708-1255-4F2F-B9B8-A677127CAEF6}|src\\Library.Application\\Library.Application.csproj|solutionrelative:src\\library.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3902708-1255-4F2F-B9B8-A677127CAEF6}|src\\Library.Application\\Library.Application.csproj|d:\\tzt\\technical assessment\\library-management-system\\src\\library.application\\library.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3902708-1255-4F2F-B9B8-A677127CAEF6}|src\\Library.Application\\Library.Application.csproj|solutionrelative:src\\library.application\\library.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3902708-1255-4F2F-B9B8-A677127CAEF6}|src\\Library.Application\\Library.Application.csproj|d:\\tzt\\technical assessment\\library-management-system\\src\\library.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3902708-1255-4F2F-B9B8-A677127CAEF6}|src\\Library.Application\\Library.Application.csproj|solutionrelative:src\\library.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507D27C2-426B-4340-55EC-053433EA3AD6}|src\\Library.Infrastructure\\Library.Infrastructure.csproj|d:\\tzt\\technical assessment\\library-management-system\\src\\library.infrastructure\\data\\migrations\\20250930151000_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507D27C2-426B-4340-55EC-053433EA3AD6}|src\\Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:src\\library.infrastructure\\data\\migrations\\20250930151000_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Library.Api.http",
+              "DocumentMoniker": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Api\\Library.Api.http",
+              "RelativeDocumentMoniker": "src\\Library.Api\\Library.Api.http",
+              "ToolTip": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Api\\Library.Api.http",
+              "RelativeToolTip": "src\\Library.Api\\Library.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-30T15:24:17.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250930151000_First.cs",
+              "DocumentMoniker": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Infrastructure\\Data\\Migrations\\20250930151000_First.cs",
+              "RelativeDocumentMoniker": "src\\Library.Infrastructure\\Data\\Migrations\\20250930151000_First.cs",
+              "ToolTip": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Infrastructure\\Data\\Migrations\\20250930151000_First.cs",
+              "RelativeToolTip": "src\\Library.Infrastructure\\Data\\Migrations\\20250930151000_First.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:10:00.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Infrastructure\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Library.Infrastructure\\Data\\LibraryDbContext.cs",
+              "ToolTip": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Infrastructure\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "src\\Library.Infrastructure\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAawAoBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:07:34.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\Library.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "src\\Library.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:03:53.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Library.Application.csproj",
+              "DocumentMoniker": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Application\\Library.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Library.Application\\Library.Application.csproj",
+              "ToolTip": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Application\\Library.Application.csproj",
+              "RelativeToolTip": "src\\Library.Application\\Library.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T14:58:16.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Application\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "src\\Library.Application\\Services\\BookService.cs",
+              "ToolTip": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Application\\Services\\BookService.cs",
+              "RelativeToolTip": "src\\Library.Application\\Services\\BookService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:46:44.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "src\\Library.Application\\Services\\AuthService.cs",
+              "ToolTip": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "src\\Library.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:46:42.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Library.Api\\appsettings.json",
+              "ToolTip": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Library.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T12:47:53.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Library.Api\\Program.cs",
+              "ToolTip": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Api\\Program.cs",
+              "RelativeToolTip": "src\\Library.Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:47:52.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Library.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Api\\Properties\\launchSettings.json*",
+              "RelativeToolTip": "src\\Library.Api\\Properties\\launchSettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T15:24:28.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Library.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\TZT\\Technical Assessment\\Library-Management-System\\src\\Library.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\Library.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:27:54.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

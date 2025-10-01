@@ -1,0 +1,39 @@
+# Build
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Sensitive configs
+appsettings.json
+appsettings.Development.json
+appsettings.Local.json
+*.env
+*.pfx
+*.key
+
+# Uploads (optional if you store local media)
+wwwroot/uploads/
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+
+# Dotnet tools
+.dotnet/
+.nuget/
+
